@@ -29,7 +29,9 @@ Demo
 
 
 ### Racing 3D video game
-
+<p>
+  This is a summer project developed by a team of two students.
+</p>
 <p>
 Demo
 </p>
