@@ -5,7 +5,7 @@ I'm a third-year computer science student choosing artificial intelligence as an
 
 This page represent some of my realisations using unity3D.
 
-### Goal Oriented Action Planning
+### Goal Oriented Action Planning [In developpment]
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
