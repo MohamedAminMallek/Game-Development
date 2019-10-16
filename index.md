@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+<p align="center">
+## Choose a job you love, and you will never have to work a day in your life.
+</p>
 
 You can use the [editor on GitHub](https://github.com/MohamedAminMallek/game_development/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
