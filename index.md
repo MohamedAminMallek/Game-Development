@@ -11,7 +11,7 @@ Developing a real-time strategy game using GOAP system.
 
 ### 3D Platform Game
 <p>
-This game was developed with a three-person team during a 24 hour competition in Tunisia.
+This game was developed with a three-person team during a 24 hour competition.
 </p>
 <p>
 Demo
