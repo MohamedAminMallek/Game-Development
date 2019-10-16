@@ -23,7 +23,7 @@ Demo
 
 [![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi/jUQcE1kKXUg/mq3.jpg?sqp=COncne0F&rs=AOn4CLCa2Hvy_bQoRM7teMYKdm63kINJ3Q)](https://youtu.be/jUQcE1kKXUg)
 
-### Game Development World Championship, Tunisie, Sfax [MOBILE]
+### Game Development World Championship [MOBILE]
 
 <p>
 Demo
