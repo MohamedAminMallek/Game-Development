@@ -3,7 +3,7 @@
 </p>
 I'm a third-year computer science student choosing artificial intelligence as an option and I'm looking for a 6-month internship in the field of video games development.
 
-présenter qu'est ce que je vais présenter(videos des jeux vidéo que j'ai developpé.
+This page represent some of my video-games realisations using unity3D.
 
 ### Goal Oriented Action Planning
 
@@ -13,9 +13,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-### Jeu de plate-forme 3D
+### 3D Platform Game
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi/jUQcE1kKXUg/mq3.jpg?sqp=COncne0F&rs=AOn4CLCa2Hvy_bQoRM7teMYKdm63kINJ3Q)](https://youtu.be/jUQcE1kKXUg)
 
 ### Multiplayer first-person shooter video game
 
@@ -28,4 +28,4 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ### Mini jeux pour smartPhone
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-https://youtu.be/vJfLhLXgsQE
+
