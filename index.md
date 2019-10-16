@@ -3,15 +3,15 @@
 </p>
 I'm a third-year computer science student choosing artificial intelligence as an option and I'm looking for a 6-month internship in the field of video games development.
 
-This page represent some of my video-games realisations using unity3D.
+This page represent some of my realisations using unity3D.
 
 ### Goal Oriented Action Planning
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-### Course de voiture 3D 
+### Racing 3D video game
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi/M7chGENuCOw/mq3.jpg?sqp=CNPune0F&rs=AOn4CLB5WHI42Lw0peBSkMWRUfZBy9MvGA)](https://youtu.be/M7chGENuCOw)
 
 ### 3D Platform Game
 
