@@ -4,36 +4,19 @@ You can use the [editor on GitHub](https://github.com/MohamedAminMallek/game_dev
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Goal Oriented Action Planning
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Goal Oriented Action Planning
 
-# Header 1
-## Header 2
-### Header 3
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-- Bulleted
-- List
+### Goal Oriented Action Planning
 
-1. Numbered
-2. List
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-**Bold** and _Italic_ and `Code` text
+### Goal Oriented Action Planning
 
-[Link](url) and ![Image](src)
-```
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MohamedAminMallek/game_development/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
