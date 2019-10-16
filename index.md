@@ -1,7 +1,7 @@
 <p align="center">
 <h1><span style="text-align: center; color: #157a76;"><em><strong>Choose a job you love, and you will never have to work a day in your life</strong></em><br /></span></h1>
 </p>
-je me présente.
+I'm a third-year computer science student choosing artificial intelligence as an option and I'm looking for a 6-month internship in the field of video games development.
 
 présenter qu'est ce que je vais présenter(videos des jeux vidéo que j'ai developpé.
 
