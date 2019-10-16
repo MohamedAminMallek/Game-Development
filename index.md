@@ -10,8 +10,12 @@ This page represent some of my realisations using unity3D.
 Developing a real-time strategy game using GOAP system.
 
 ### 3D Platform Game
+<p>
 This game was developed with a three-person team during a 24 hour competition in Tunisia.
-demo:
+</p>
+<p>
+Demo
+</p>
 [![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi/jUQcE1kKXUg/mq3.jpg?sqp=COncne0F&rs=AOn4CLCa2Hvy_bQoRM7teMYKdm63kINJ3Q)](https://youtu.be/jUQcE1kKXUg)
 
 ### Game Development World Championship, Tunisie, Sfax [MOBILE]
