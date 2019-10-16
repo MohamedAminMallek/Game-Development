@@ -25,7 +25,7 @@ Demo
 
 ### Game Development World Championship [MOBILE]
 <p>
-  As a team, we had begun the development of this video game in a competition and then I had finished it by myself.
+  As a team, we had begun the development of this video game during the GDWC and then I had finished it by myself.
  </p>
 <p>
 Demo
