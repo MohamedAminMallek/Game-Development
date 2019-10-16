@@ -43,7 +43,9 @@ Demo
 [![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi/M7chGENuCOw/mq3.jpg?sqp=CNPune0F&rs=AOn4CLB5WHI42Lw0peBSkMWRUfZBy9MvGA)](https://youtu.be/M7chGENuCOw)
 
 ### Multiplayer first-person shooter video game
-
+<p>
+  This game was developed by me while trying to learn a new skill using YouTube tutorials.
+</p>
 <p>
 Demo
 </p>
