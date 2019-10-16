@@ -1,9 +1,9 @@
 <p align="center">
 <h1><span style="text-align: center; color: #157a76;"><em><strong>Choose a job you love, and you will never have to work a day in your life</strong></em><br /></span></h1>
 </p>
-You can use the [editor on GitHub](https://github.com/MohamedAminMallek/game_development/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+je me présente.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+présenter qu'est ce que je vais présenter(videos des jeux vidéo que j'ai developpé.
 
 ### Goal Oriented Action Planning
 
