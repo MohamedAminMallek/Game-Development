@@ -24,7 +24,9 @@ Demo
 [![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi/jUQcE1kKXUg/mq3.jpg?sqp=COncne0F&rs=AOn4CLCa2Hvy_bQoRM7teMYKdm63kINJ3Q)](https://youtu.be/jUQcE1kKXUg)
 
 ### Game Development World Championship [MOBILE]
-
+<p>
+  As a team, we had begun the development of this video game in a competition and then I had finished it by myself.
+ </p>
 <p>
 Demo
 </p>
