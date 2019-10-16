@@ -7,11 +7,11 @@ This page represent some of my realisations using unity3D.
 
 ### Goal Oriented Action Planning [In developpment]
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Developing a real-time strategy game using GOAP system.
 
 ### 3D Platform Game
 
-[![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi/jUQcE1kKXUg/mq3.jpg?sqp=COncne0F&rs=AOn4CLCa2Hvy_bQoRM7teMYKdm63kINJ3Q)](https://youtu.be/jUQcE1kKXUg)
+[![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi/jUQcE1kKXUg/mq3.jpg?sqp=COncne0F&rs=AOn4CLCa2Hvy_bQoRM7teMYKdm63kINJ3Q)](https://youtu.be/jUQcE1kKXUg)This game was developed with a three-person team during a 24 hour competition in Tunisia.
 
 ### Game Development World Championship, Tunisie, Sfax [MOBILE]
 
