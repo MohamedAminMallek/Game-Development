@@ -10,8 +10,14 @@
 
 
 ### Goal Oriented Action Planning [In developpment]
+<p>
+  Developing a real-time strategy game using GOAP system.
+</p>
+<p>
+Demo
+</p>
 
-Developing a real-time strategy game using GOAP system.
+[![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi/hKLC1DKai7o/mq2.jpg?sqp=COLPnu0F&rs=AOn4CLDHbupaN1a2P35hrc6_MftFvIXzmw)](https://youtu.be/hKLC1DKai7o)
 
 ### 3D Platform Game
 <p>
