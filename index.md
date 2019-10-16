@@ -17,14 +17,15 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-### jeu vidéo de tir à la première personne
+### Multiplayer first-person shooter video game
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi/vJfLhLXgsQE/mq3.jpg?sqp=COnRne0F&rs=AOn4CLB4GNrAjjTlrFbleF3r6RwsnLuMlA)](https://youtu.be/vJfLhLXgsQE)
 
-### Game Development World Championship [MOBILE]
+### Game Development World Championship, Tunisie, Sfax [MOBILE]
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi/_SJV_sOlh2g/mq2.jpg?sqp=CLLRne0F&rs=AOn4CLAWyRDf7K5mxr2Bd4Zj82aavXFsOg)](https://youtu.be/_SJV_sOlh2g)
 
 ### Mini jeux pour smartPhone
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+https://youtu.be/vJfLhLXgsQE
