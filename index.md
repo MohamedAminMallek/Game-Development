@@ -3,7 +3,7 @@
 </p>
 I'm a third-year computer science student choosing artificial intelligence as an option and I'm looking for a 6-month internship in the field of video games development.
 
-This page represent some of my realisations using unity3D.
+This page represents some of my realisations using unity3D.
 
 ### Goal Oriented Action Planning [In developpment]
 
