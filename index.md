@@ -1,6 +1,4 @@
-<p align="center">
-## Choose a job you love, and you will never have to work a day in your life.
-</p>
+<h1><span style="text-align: center; color: #157a76;"><em><strong>Choose a job you love, and you will never have to work a day in your life.</strong></em><br /></span></h1>
 
 You can use the [editor on GitHub](https://github.com/MohamedAminMallek/game_development/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
