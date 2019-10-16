@@ -30,15 +30,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 | [![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi/0oyeT6zRuMU/mq2.jpg?sqp=CIX4ne0F&rs=AOn4CLBfMEazf1ePOToNbjD-Trjd4XC2CA)](https://youtu.be/0oyeT6zRuMU) | [![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi/2ksZhLXGWw0/mq2.jpg?sqp=CKCCnu0F&rs=AOn4CLBGqLbE59NB-u_eF029N07MX6aEdw)](https://youtu.be/2ksZhLXGWw0)
  |
-<table border="0">
- <tr>
-  <td>[![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi/0oyeT6zRuMU/mq2.jpg?sqp=CIX4ne0F&rs=AOn4CLBfMEazf1ePOToNbjD-Trjd4XC2CA)](https://youtu.be/0oyeT6zRuMU)
-  </td>
-  <td>
-   [![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi/2ksZhLXGWw0/mq2.jpg?sqp=CKCCnu0F&rs=AOn4CLBGqLbE59NB-u_eF029N07MX6aEdw)](https://youtu.be/2ksZhLXGWw0)
-  </td>
- </tr>
-</table>
 
 
 
