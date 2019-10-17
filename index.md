@@ -37,7 +37,7 @@ Demo
 Demo
 </p>
 
-[![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi/_SJV_sOlh2g/mq2.jpg?sqp=CLLRne0F&rs=AOn4CLAWyRDf7K5mxr2Bd4Zj82aavXFsOg)](https://youtu.be/_SJV_sOlh2g)
+[![IMAGE ALT TEXT HERE](https://github.com/MohamedAminMallek/Game-Development/blob/master/dream%20house.png)](https://youtu.be/_SJV_sOlh2g)
 
 
 ### Racing 3D video game
