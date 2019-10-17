@@ -61,14 +61,10 @@ Demo
 [![IMAGE ALT TEXT HERE](https://i.ibb.co/mvT6ghJ/fps.png)](https://youtu.be/vJfLhLXgsQE)
 
 ### Mobile mini-games
-
-<a href="https://youtu.be/2ksZhLXGWw"><img src="https://i.ibb.co/0mttQDf/Screenshot-20191017-084124-1.png" style="width:82px; height:86px"></a>
-[![Demo1]()](https://youtu.be/0oyeT6zRuMU)
-
-[![Demo2]()](https://youtu.be/2ksZhLXGWw0)
-
-
-
+<table><tr><td>
+<a href="https://youtu.be/2ksZhLXGWw"><img src="https://i.ibb.co/ZY9Ch3w/Screenshot-20191017-084016.png" style="width:10%; height:10%"></a>
+  </td>
+  <td>
 <a href="https://youtu.be/2ksZhLXGWw"><img src="https://i.ibb.co/0mttQDf/Screenshot-20191017-084124-1.png" style="width:10%; height:10%"></a>
-
+  </td></tr></table>
 
