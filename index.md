@@ -48,7 +48,7 @@ Demo
 Demo
 </p>
 
-[![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi/M7chGENuCOw/mq3.jpg?sqp=CNPune0F&rs=AOn4CLB5WHI42Lw0peBSkMWRUfZBy9MvGA)](https://youtu.be/M7chGENuCOw)
+[![IMAGE ALT TEXT HERE](https://github.com/MohamedAminMallek/Game-Development/blob/master/racing.png)](https://youtu.be/M7chGENuCOw)
 
 ### Multiplayer first-person shooter video game
 <p>
