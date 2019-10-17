@@ -58,7 +58,7 @@ Demo
 Demo
 </p>
 
-[![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi/vJfLhLXgsQE/mq3.jpg?sqp=COnRne0F&rs=AOn4CLB4GNrAjjTlrFbleF3r6RwsnLuMlA)](https://youtu.be/vJfLhLXgsQE)
+[![IMAGE ALT TEXT HERE](https://github.com/MohamedAminMallek/Game-Development/blob/master/fps.png)](https://youtu.be/vJfLhLXgsQE)
 
 ### Mobile mini-games
 
