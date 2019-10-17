@@ -27,7 +27,7 @@ This game was developed by a three-person team during a 24 hour competition.
 Demo
 </p>
 
-[![IMAGE ALT TEXT HERE](https://github.com/MohamedAminMallek/Game-Development/blob/master/Cnci.png)](https://youtu.be/jUQcE1kKXUg)
+[(https://github.com/MohamedAminMallek/Game-Development/blob/master/Cnci.png)](https://youtu.be/jUQcE1kKXUg)
 
 ### Game Development World Championship [MOBILE]
 <p>
