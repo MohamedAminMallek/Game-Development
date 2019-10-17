@@ -17,7 +17,7 @@
 Demo
 </p>
 
-[![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi/hKLC1DKai7o/mq2.jpg?sqp=COLPnu0F&rs=AOn4CLDHbupaN1a2P35hrc6_MftFvIXzmw)](https://youtu.be/hKLC1DKai7o)
+[![IMAGE ALT TEXT HERE](https://www.photobox.co.uk/my/photo/full?photo_id=502242119987)](https://youtu.be/hKLC1DKai7o)
 
 ### 3D Platform Game
 <p>
