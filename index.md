@@ -62,9 +62,9 @@ Demo
 
 ### Mobile mini-games
 <table><tr><td>
-<a href="https://youtu.be/2ksZhLXGWw"><img src="https://i.ibb.co/ZY9Ch3w/Screenshot-20191017-084016.png" style="height:10%"></a>
+<a href="https://youtu.be/0oyeT6zRuMU"><img src="https://i.ibb.co/ZY9Ch3w/Screenshot-20191017-084016.png" style="height:10%"></a>
   </td>
   <td>
-<a href="https://youtu.be/2ksZhLXGWw"><img src="https://i.ibb.co/0mttQDf/Screenshot-20191017-084124-1.png" style="height:10%"></a>
+<a href="https://youtu.be/2ksZhLXGWw0"><img src="https://i.ibb.co/0mttQDf/Screenshot-20191017-084124-1.png" style="height:10%"></a>
   </td></tr></table>
 
